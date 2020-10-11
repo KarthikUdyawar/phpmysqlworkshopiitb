@@ -7,7 +7,7 @@
     <h3>Enter the student seat No. :</h3>
     <input type="test" name="id"><br>
     <h3>Password :</h3>
-    <input type="test" name="password"><p>
+    <input type="password" name="password"><p>
     <input type="submit" value="Submit">
   </form>
 </body>
